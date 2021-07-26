@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(gase4.jpg);
+	background-image: url(./images/gase.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -403,7 +403,7 @@ p {
 #about .about {
 	flex-direction: column-reverse;
 	text-align: center;
-	max-width: 1200px;
+	max-width: 800px;
 	margin: 0 auto;
 	padding: 100px 20px;
 }
