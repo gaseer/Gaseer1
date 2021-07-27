@@ -13,6 +13,7 @@ a {
 	text-decoration: none;
         color:red;
 }
+a:hover{color:black;}
 .container {
 	min-height: 100vh;
 	width: 100%;
@@ -203,6 +204,8 @@ p {
 #hero {
 	background-image: url(./images/gase.jpg);
 	background-size: cover;
+        width:100%;
+        padding-top:42%;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
