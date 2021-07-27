@@ -13,7 +13,9 @@ a {
 	text-decoration: none;
         color:red;
 }
-a:hover{color:aliceblue;}
+a:hover{
+color:violet;
+}
 .container {
 	min-height: 100vh;
 	width: 100%;
@@ -28,7 +30,7 @@ img {
 }
 p {
 	color: black;
-	font-size: 1.4rem;
+	font-size: 1.8rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
 	font-weight: 300;
