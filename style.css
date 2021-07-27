@@ -30,7 +30,7 @@ img {
 }
 p {
 	color: black;
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
 	font-weight: 300;
@@ -288,7 +288,7 @@ p {
 	flex-wrap: wrap;
 	margin-top: 50px;
 }
-#services .service-item {
+#services .service-item{
 	flex-basis: 80%;
 	display: flex;
 	align-items: flex-start;
@@ -340,6 +340,10 @@ p {
 }
 #projects .projects-header h1 {
 	margin-bottom: 50px;
+}
+#project .projects-item p {
+	color: white;
+	text-align: left;
 }
 #projects .all-projects {
 	display: flex;
@@ -427,7 +431,7 @@ p {
 	margin-bottom: 10px;
 }
 #about .col-right p {
-	margin-bottom: 20px;
+	margin-bottom: 20px; 
 }
 #about .col-right .cta {
 	color: black;
