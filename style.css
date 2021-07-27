@@ -382,8 +382,8 @@ p {
 	color: white;
 }
 #projects .project-img {
-	flex-basis: 50%;
-	height: 800px;
+	flex-basis: 70%;
+	height: 500px;
 	overflow: hidden;
 	position: relative;
 }
