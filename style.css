@@ -14,7 +14,7 @@ a {
         color:red;
 }
 a:hover{
-color:violet;
+color:pink;
 }
 .container {
 	min-height: 100vh;
@@ -382,10 +382,12 @@ p {
 	color: white;
 }
 #projects .project-img {
-	flex-basis: 60%;
+	flex-basis: 50%;
 	height: 1200px;
 	overflow: hidden;
 	position: relative;
+        
+        padding-top:32%;
 }
 #projects .project-img:after {
 	content: '';
